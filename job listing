@@ -1,0 +1,16 @@
+</body>
+		<div class="container">
+			<h1>Avaialble Internships and Job Opportunities</h1>
+			<div class="filters">
+					<label for="JobType">Job Type: </label>
+					<select id="JobType">
+						<option value="all">All</option>
+						<option value="internships">Internship</option>
+						<option value="full time">Full Time</option>
+						<option value="part time">Part Time</option>
+					</select>
+			</div>
+			<div id="joblist" class="job list"></div>
+		 </div>
+
+<body>
